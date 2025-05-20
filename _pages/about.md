@@ -22,7 +22,7 @@ Education
 
 News
 ------
-* May 2025: My homie Fang Wan benched 100 kilos like a beast — CS major is just his Plan B!
+* May 2025: My homie <a href= "https://jiuguaiwf.github.io/">Fang Wan</a> benched 100 kilos like a beast — CS major is just his Plan B!
 * May 2025: Received IACS Young Writer's Award, thank you IACS!
 * May 2025: One paper accepted by ACL 2025 on LLM for molecule editing, congrats to my cooperators!
 * May 2025: First author on a paper accepted by ICML 2025 on 3D GNN explanation (XAI)!
