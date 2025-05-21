@@ -17,7 +17,7 @@ Education
 ======
 * B.Eng. Internet of Things Engineering; Jiangsu University of Science and Technology, Aug. 2017 - Jun. 2021
 * M.Eng. Traffic Information Engineering and Control; Wuhan University of Technology, Aug. 2021 - Jun. 2024
-* Ph.D. Computer Science; Stony Brook University, Jun. 2024 - TBD
+* Ph.D. Computer Science; Stony Brook University, Aug. 2024 - TBD
 
 
 News
