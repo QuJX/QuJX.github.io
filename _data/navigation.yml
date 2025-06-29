@@ -14,8 +14,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Blogs"
-    url: /blogs/    
+  - title: "Researches"
+    url: /research/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -30,4 +30,4 @@ main:
   #   url: /cv-json/
     
   - title: "Service"
-    url: /Service/
+    url: /services/
