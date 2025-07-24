@@ -22,7 +22,7 @@ Education
 
 News
 ------
-* May 2025: My homie <a href= "https://jiuguaiwf.github.io/">Fang Wan</a> benched 100 kilos like a beast — CS major is just his Plan B!
+* July 2025: Preprint a paper related to efficient generation via <a href= "https://arxiv.org/pdf/2507.09043">shortening generation trajectories</a>.
 * May 2025: Received IACS Young Writer's Award, thank you IACS!
 * May 2025: One paper accepted by ACL 2025 on LLM for molecule editing, congrats to my cooperators!
 * May 2025: First author on a paper accepted by ICML 2025 on 3D GNN explanation (XAI)!
@@ -40,5 +40,5 @@ News
 
 # First or Co-first Author Preprints
 
-
+* Shortening the Trajectories: Identity-Aware Gaussian Approximation for Efficient 3D Molecular Generation. <a href= "https://arxiv.org/pdf/2507.09043">Arxiv</a>.
 
