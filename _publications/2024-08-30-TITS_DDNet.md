@@ -13,4 +13,4 @@ authors: '**Jingxiang Qu**, Ryan Wen Liu, Yuan Gao, Yu Guo, Fenghua Zhu, Fei-Yue
 header:
   teaser: TITS_DDNet.jpg
 ---
-We firstly explicitly incorporate gradient-domain enhancement for low-ligh images.
+We explicitly incorporate gradient-domain dual-perspective enhancement for low-light images.
