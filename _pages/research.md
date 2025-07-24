@@ -1,4 +1,3 @@
-
 ---
 permalink: /research/
 title: "Researches"
@@ -7,6 +6,9 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+
+Researches
+======
 
 * **Geometric Learning**
 
