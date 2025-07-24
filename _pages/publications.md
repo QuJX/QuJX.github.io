@@ -25,4 +25,4 @@ author_profile: true
 * Guo, Y., Lu, Y., **Qu, J.**, Liu, R. W., & Ren, W. (2022). MDSFE: Multiscale deep stacking fusion enhancer network for visual data enhancement. IEEE Transactions on Instrumentation and Measurement, 72, 1-12.
 
 \* indicates equal contributors.
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=9zK-zGoAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
