@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tom Jingxiang Qu's Website"
+title: /
 author_profile: true
 redirect_from: 
   - /about/
