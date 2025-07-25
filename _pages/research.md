@@ -15,6 +15,6 @@ Application: Molecules, Point Clouds, etc.
 
 * **Probabilistic Generation Model**
 
-Another direction of my research focuses on probabilistic generative models centers on improving both efficiency and expressivity. I work on methods to accelerate the training and sampling processes of generative models, making them more practical for large-scale or real-time applications. At the same time, I aim to preserve essential structural properties—such as equivariance, symmetry, and other domain-specific constraints within the generation process, ensuring that the outputs remain faithful to the underlying data geometry.
+Another direction of my research focuses on probabilistic generative models centers on improving both efficiency and expressivity. I work on methods to accelerate the training and sampling processes of generative models, making them more practical for large-scale or real-time applications. At the same time, I aim to preserve essential structural properties, such as equivariance, symmetry, and other domain-specific constraints within the generation process, ensuring that the outputs remain faithful to the underlying data geometry.
 
 Application: Diffusion Models, Flow-matching Models, etc.
