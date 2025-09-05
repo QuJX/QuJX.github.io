@@ -13,7 +13,7 @@ My research interests include geometric learning, multimodal/graph learning, and
 
 <p style="margin-top:1rem; padding:.75rem 1rem; border-left:4px solid #0ea5e9; background:#f0f9ff;">
   <strong>Summer 2026:</strong> I’m seeking a research internship, preferably focused on generative probabilistic models. Please feel free to contact me at
-  <a href="mailto:tom.jx.us@gmail.com">tom.jx.us@gmail.com</a>.
+  <a href="mailto:tom.jx.us@gmail.com">tom.jx.us AT gmail dot com</a>.
 </p>
 
 
