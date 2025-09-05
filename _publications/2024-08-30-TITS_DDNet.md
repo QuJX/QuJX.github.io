@@ -2,7 +2,7 @@
 title: "Double domain guided real-time low-light image enhancement for ultra-high-definition transportation surveillance"
 collection: publications
 permalink: /publication/2024-09-30-TITS_DDNet
-excerpt: 'We firstly explicitly incorporate gradient-domain enhancement for low-ligh images'
+excerpt: 'We firstly explicitly incorporate gradient-domain enhancement for low-light images'
 date: 2024-08-30
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10423894'
