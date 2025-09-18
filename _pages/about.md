@@ -26,7 +26,7 @@ Education
 
 News
 ------
-* July 2025: Preprint a paper related to efficient generation via <a href= "https://arxiv.org/pdf/2507.09043">shortening generation trajectories</a>.
+* July 2025: Preprint a paper related to efficient 3D molecular generation via <a href= "https://arxiv.org/pdf/2507.09043">shortening generation trajectories</a>.
 * May 2025: Received IACS Young Writer's Award, thank you IACS!
 * May 2025: One paper accepted by ACL 2025 on LLM for molecule editing, congrats to my cooperators!
 * May 2025: First author on a paper accepted by ICML 2025 on 3D GNN explanation (XAI)!
