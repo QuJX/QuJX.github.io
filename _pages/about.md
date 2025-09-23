@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD Student in AIRS Lab from Stony Brook University, advised by Prof. <a href= "https://jacoblau0513.github.io/">Yi Liu</a>. 
+I am currently a CS PhD Student in AIRS Lab from Stony Brook University, advised by Prof. <a href= "https://jacoblau0513.github.io/">Yi Liu</a>. 
 
 My research interests include multimodal/graph learning, generative models, and geometric learning.
 
