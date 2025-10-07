@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-My blogs are written simultaneously with my study. It's for anyone curious about how different tech works without getting lost in heavy math or long theory (like me). I am trying to use simple words and small, easy-to-follow code examples to show the workflow behind each technology.
+My blogs are written simultaneously with my study. It's for anyone curious about how different tech works without getting lost in heavy math or long theory (sadly, like myself). I am trying to use simple words and small, easy-to-follow code examples to show the workflow behind each technology.
 The goal is to make learning feel less intimidating: I can see how things work in practice, not just in equations. The blog list is actively updated, and the jupyter file will be attached after summarization.
 
 * **Generative Models**
