@@ -18,6 +18,7 @@ The goal is to make learning feel less intimidating: I can see how things work i
 4. Diffusion Models
 5. Continuous Normalizing Flow
 6. Flow Matching
+7. Rectified Flow Matching
 
 * **Geometric Learning**
 
