@@ -20,6 +20,7 @@ The goal is to make learning feel less intimidating: I can see how things work i
 6. Flow Matching
 
 * **Geometric Learning**
+
 1. <a href="https://colab.research.google.com/drive/1gEWOPSp0h7DajnqwoKSPUUBFMs4Nbvzf?usp=sharing">Preliminary Explainations of Jargons in Group Equivariance Learning</a>
 2. <a href="https://colab.research.google.com/drive/1Drwshca3zvRuva0NUdwd0yiQjUSz3OdD?usp=sharing">Group Equivariance</a>
 3. <a href="https://colab.research.google.com/drive/1Vorr7Z1EG6APO9sjOtD7O5mJeoj5jqst#scrollTo=PDi6nu58tz0h">Tensor-Product based SO(3) Equivariant Model</a>
