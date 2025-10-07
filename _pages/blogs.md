@@ -13,7 +13,7 @@ The goal is to make learning feel less intimidating: I can see how things work i
 * **Generative Models**
 
 1. <a href="https://colab.research.google.com/drive/1aVHDwNhS_YXSkEjFPpi4sx-WmE6S0kXH?usp=sharing">Generating Adverserial Networks (GANs)</a>
-2. Auto-regressive Models
+2. <a href="https://colab.research.google.com/drive/1_p5p4Pvb3qZufw1aTlcjMwjwripdFtxj?usp=sharing">Autoregressive Models</a>
 3. Variational Auto Encoder (VAE)
 4. Diffusion Models
 5. Continuous Normalizing Flow
