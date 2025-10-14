@@ -15,10 +15,9 @@ The goal is to make learning feel less intimidating: I can see how things work i
 1. <a href="https://colab.research.google.com/drive/1aVHDwNhS_YXSkEjFPpi4sx-WmE6S0kXH?usp=sharing">Generating Adverserial Networks (GANs)</a>
 2. <a href="https://colab.research.google.com/drive/1_p5p4Pvb3qZufw1aTlcjMwjwripdFtxj?usp=sharing">Autoregressive Models</a>
 3. <a href="https://colab.research.google.com/drive/146uXQS0dggSHF1A0w_pZzhuWIf1obG6I?usp=sharing">Variational Auto Encoder (VAE)</a>
-4. Diffusion Models
-5. Continuous Normalizing Flow
-6. Flow Matching
-7. Rectified Flow Matching
+4. <a href="https://colab.research.google.com/drive/1U7_CeuttNkeAC8XjRd6IUn_7jCCQl6zu?usp=sharing">Diffusion Models </a>
+5. Flow Matching
+6. Rectified Flow Matching
 
 * **Geometric Learning**
 
