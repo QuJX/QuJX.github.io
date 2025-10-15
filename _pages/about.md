@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a CS PhD Student in AIRS Lab from Stony Brook University, advised by Prof. <a href= "https://jacoblau0513.github.io/">Yi Liu</a>. 
 
-My research interests include multimodal/graph learning, generative models, and geometric learning.
+My research interests include probabilistic generative models, geometric learning, and multimodal/graph learning.
 
 <p style="margin-top:1rem; padding:.75rem 1rem; border-left:4px solid #0ea5e9; background:#f0f9ff;">
   <strong>Summer 2026:</strong> I’m seeking an internship as Reseach Scientists. Please feel free to send me the 
