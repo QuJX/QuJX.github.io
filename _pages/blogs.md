@@ -17,7 +17,8 @@ The goal is to make learning feel less intimidating: I can see how things work i
 3. <a href="https://colab.research.google.com/drive/146uXQS0dggSHF1A0w_pZzhuWIf1obG6I?usp=sharing">Variational Auto Encoder (VAE) Models</a>
 4. <a href="https://colab.research.google.com/drive/1U7_CeuttNkeAC8XjRd6IUn_7jCCQl6zu?usp=sharing">Diffusion Models</a>
 5. <a href="https://colab.research.google.com/drive/1BZjP68m57tiNaEqOyXH0ShneuMePRVlu?usp=sharing">Flow Matching Models</a>
-6. Rectified Flow Matching
+6. <a href="https://d2jud02ci9yv69.cloudfront.net/2025-04-28-diffusion-flow-173/blog/diffusion-flow/">A Unified Perspective for Gaussian Diffusion and Flow Matching Models</a> -- An Insightful Blog Written by Ruiqi Gao, et al.
+7. Rectified Flow Matching
 
 * **Geometric Learning**
 
