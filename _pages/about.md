@@ -29,7 +29,7 @@ News
 * September 2025: IAGA is accepted by NeuRIPS 2025 <a href= "https://spigmworkshopv3.github.io/">SPIGM</a> Workshop.
 * July 2025: Preprint IAGA, a method for efficient 3D molecular generation via <a href= "https://arxiv.org/pdf/2507.09043">shortening generation trajectories</a>.
 * May 2025: Received IACS Young Writer's Award, thank you IACS!
-* May 2025: One paper accepted by ACL 2025 on LLM for molecule editing, congrats to my cooperators!
+* May 2025: One paper accepted by ACL 2025 on LLM for molecule editing, congrats to my collaborators!
 * May 2025: First author on a paper accepted by ICML 2025 on 3D GNN explanation (XAI)!
 * April 2025: Give a lightening talk in IACS research day. Thanks for the opportunity from IACS!
 
