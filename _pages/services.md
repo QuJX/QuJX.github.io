@@ -9,8 +9,8 @@ redirect_from:
 
 Journal/Conference Reviewer
 ======
-- IEEE TNNLS, IEEE SPL, Scientific Report, Information Fusion, etc.
-- International Conference on Learning Representations (ICLR), 2025
+- IEEE TPAMI, TNNLS, IEEE SPL, TMLR, Scientific Report, Information Fusion, etc.
+- International Conference on Learning Representations (ICLR), 2025/2026
 - International Conference on Machine Learning (ICML), 2025
 
 
