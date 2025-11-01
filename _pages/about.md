@@ -26,6 +26,7 @@ Education
 
 News
 ------
+* October 2025: We published <a href= "https://github.com/wenhangao21/ICLR26_Paper_Finder">Paper Finder</a>, a tool designed to help researchers efficiently find publications from leading AI conferences, with support for multilingual semantic search on abstracts.
 * September 2025: IAGA is accepted by NeuRIPS 2025 <a href= "https://spigmworkshopv3.github.io/">SPIGM</a> Workshop.
 * July 2025: Preprint IAGA, a method for efficient 3D molecular generation via <a href= "https://arxiv.org/pdf/2507.09043">shortening generation trajectories</a>.
 * May 2025: Received IACS Young Writer's Award, thank you IACS!
