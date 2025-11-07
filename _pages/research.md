@@ -15,6 +15,6 @@ Application: Diffusion Models, Flow-matching Models, etc.
 
 * **Geometric Learning**
 
-I also focuse on geometric learning, particularly on incorporating symmetry and structure into machine learning models. I work on group equivariance and symmetry and design networks that respect geometric representations. I also work on 3D Graph Representation Learning, developing efficient and trustworthy models that capture both spatial and relational aspects of 3D graph data.
+I also focus on geometric learning, particularly on incorporating symmetry and structure into machine learning models. I work on group equivariance and symmetry and design networks that respect geometric representations. I also work on 3D Graph Representation Learning, developing efficient and trustworthy models that capture both spatial and relational aspects of 3D graph data.
 
 Application: Molecules, Point Clouds, etc.
