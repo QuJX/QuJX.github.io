@@ -26,6 +26,7 @@ Education
 
 News
 ------
+* December 2025: Accepted the offer from <a href= "https://www.autodesk.com/products?mktvar002=5656794|SEM|860853098|94832557848|kwd-15326526&utm_source=GGL&utm_medium=SEM&utm_campaign=GGL_DEC_Autodesk_AMER_US_eComm_SEM_BR_New_EX_0000_5656794_&utm_id=5656794&utm_term=kwd-15326526&mkwid=sC290fuwe|pcrid|592440564615|pkw|autodesk|pmt|e|pdv|c|slid||pgrid|94832557848|ptaid|kwd-15326526|pid|&utm_medium=cpc&utm_source=google&utm_campaign=GGL_DEC_Autodesk_AMER_US_eComm_SEM_BR_New_EX_ADSK_3360535_&utm_term=autodesk&utm_content=sC290fuwe|pcrid|592440564615|pkw|autodesk|pmt|e|pdv|c|slid||pgrid|94832557848|ptaid|kwd-15326526|&gad_source=1&gad_campaignid=860853098&gbraid=0AAAAADx7pE1R5CZFqCvcWwpvCYTkCHZJ_&gclid=CjwKCAiAlrXJBhBAEiwA-5pgws48UdAv64k7nbxPWWF25yvt0I4Z6tsj-scHRd-hTWad-mwA_Y-7cxoCrAUQAvD_BwE">Autodesk</a> to work as an intern research scientist over the 2026 summer.
 * October 2025: We published <a href= "https://github.com/wenhangao21/ICLR26_Paper_Finder">Paper Finder</a>, a tool designed to help researchers efficiently find publications from leading AI conferences, with support for multilingual semantic search on abstracts.
 * September 2025: IAGA is accepted by NeuRIPS 2025 <a href= "https://spigmworkshopv3.github.io/">SPIGM</a> Workshop.
 * July 2025: Preprint IAGA, a method for efficient 3D molecular generation via <a href= "https://arxiv.org/pdf/2507.09043">shortening generation trajectories</a>.
