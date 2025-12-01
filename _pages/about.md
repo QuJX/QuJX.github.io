@@ -12,8 +12,8 @@ I am currently a CS PhD Student in AIRS Lab from Stony Brook University, advised
 My research interests include probabilistic generative models, geometric learning, and multimodal/graph learning.
 
 <p style="margin-top:1rem; padding:.75rem 1rem; border-left:4px solid #0ea5e9; background:#f0f9ff;">
-  <strong>Summer 2026:</strong> I’m seeking an internship. Please feel free to send me the 
-  <a href="mailto:tom.jx.us@gmail.com">email</a> for a chat.
+  <strong>I’m seeking an internship. Please feel free to send me the 
+  <a href="mailto:tom.jx.us@gmail.com">email</a> for any potential opportunities. </strong>
 </p>
 
 
