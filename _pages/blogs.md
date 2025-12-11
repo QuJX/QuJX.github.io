@@ -19,8 +19,7 @@ The goal is to make learning feel less intimidating: I can see how things work i
 5. <a href="https://colab.research.google.com/drive/1BZjP68m57tiNaEqOyXH0ShneuMePRVlu?usp=sharing">Flow Matching Models</a>
 6. <a href="https://colab.research.google.com/drive/1upNC5leCpVWKMFhFIa0n4IqZXpM2VV4e?usp=sharing">DDIM: Sampling Acceleration via ODE Simulation</a>
 7. <a href="https://d2jud02ci9yv69.cloudfront.net/2025-04-28-diffusion-flow-173/blog/diffusion-flow/">A Unified Perspective for Gaussian Diffusion and Flow Matching Models</a> -- An Insightful Blog Written by Ruiqi Gao, et al.
-8. <a href="https://colab.research.google.com/drive/1shWjFBpKOV3IqKx6Yhg_0nggTinCCDP9?usp=sharing">Discrete Generative Models: D3PM</a>
-9. Rectified Flow Matching
+8. Discrete Generative Models: <a href="https://colab.research.google.com/drive/1shWjFBpKOV3IqKx6Yhg_0nggTinCCDP9?usp=sharing">D3PM</a>, <a href="https://colab.research.google.com/drive/1Us8-rrSzPhTtz3KEDhi30OoX4BymL4FK?usp=sharing">MDLM</a>, Discrete FM.
 
 * **Geometric Learning**
 
