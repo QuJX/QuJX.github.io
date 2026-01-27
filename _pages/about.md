@@ -48,5 +48,4 @@ News
 
 # First or Co-first Author Preprints
 
-* Shortening the Trajectories: Identity-Aware Gaussian Approximation for Efficient 3D Molecular Generation. <a href= "https://arxiv.org/pdf/2507.09043">Arxiv</a>.
 
