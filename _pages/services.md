@@ -11,7 +11,8 @@ Journal/Conference Reviewer
 ======
 - IEEE TPAMI, TNNLS, IEEE SPL, TMLR, Scientific Report, Information Fusion, etc.
 - International Conference on Learning Representations (ICLR), 2025/2026
-- International Conference on Machine Learning (ICML), 2025
+- International Conference on Machine Learning (ICML), 2025/2026
+- ACM KDD 2026
 
 
 
