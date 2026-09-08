@@ -18,7 +18,7 @@ author_profile: true
 *  **Jingxiang Qu**, et al. Multi-task learning-enabled automatic vessel draft reading for intelligent maritime surveillance. IEEE Transactions on Intelligent Transportation Systems 25.5 (2023): 4552-4564.
 *  **Jingxiang Qu**, et al. "Edge computing-enabled multi-sensor data fusion for intelligent surveillance in maritime transportation systems." 2022 IEEE DASC. IEEE, 2022.
 
-# Other Coorperated Publications
+# Other Cooperative Publications
 * Liu, X., Ding, Y., **Qu, J.**, Zhang, Y., Gao, W., & Liu, Y. (2025). RL-Guider: Leveraging historical decisions and feedback for drug editing with large language models. Findings of the Association for Computational Linguistics: ACL 2025.
 * Zhao, C., Liu, R. W., **Qu, J.**, & Gao, R. (2024). Deep learning-based object detection in maritime unmanned aerial vehicle imagery: Review and experimental comparisons. Engineering Applications of Artificial Intelligence, 128, 107513.
 * Guo, Y., Liu, R. W., **Qu, J.**, Lu, Y., Zhu, F., & Lv, Y. (2023). Asynchronous trajectory matching-based multimodal maritime data fusion for vessel traffic surveillance in inland waterways. IEEE Transactions on Intelligent Transportation Systems, 24(11), 12779-12792.
