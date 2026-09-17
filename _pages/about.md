@@ -23,6 +23,9 @@ Education
 * M.Eng. Traffic Information Engineering and Control; Wuhan University of Technology, Aug. 2021 - Jun. 2024
 * Ph.D. Computer Science; Stony Brook University, Aug. 2024 - TBD
 
+Experience
+======
+* AI Research Scientist Intern (Motion Generation), Autodesk, May 2026 - Aug. 2026
 
 News
 ------
